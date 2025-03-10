@@ -6,7 +6,7 @@ Summary:	Python client for Sentry
 Summary(pl.UTF-8):	Pythonowy klient usługi Sentry
 Name:		python3-sentry-sdk
 Version:	1.40.6
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download:	https://pypi.org/simple/sentry-sdk/
